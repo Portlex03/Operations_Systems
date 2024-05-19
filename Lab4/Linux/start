@@ -1,0 +1,5 @@
+gnome-terminal -x "./lab_four.out"
+sleep 3
+gnome-terminal -x "./lab_four.out"
+sleep 4
+gnome-terminal -x "./lab_four.out"
